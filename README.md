@@ -51,15 +51,15 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
 <p>
 <!-- <ul></ul>portfolio url -->
   <ul> 
-    <a href= "https://www.linkedin.com/in/sylviall81/"><img width="25" height="25" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> LinkedIn 
+    <a target = "_blank" href= "https://www.linkedin.com/in/sylviall81/"><img width="25" height="25" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> LinkedIn 
     </a>
   </ul>
   <ul>
-    <a href= "mailto:sylviall81@gmail.com"> <img width="25" height="25" src="https://img.icons8.com/parakeet/48/new-post.png" alt="new-post"/>Email 
+    <a target = "_blank" href= "mailto:sylviall81@gmail.com"> <img width="25" height="25" src="https://img.icons8.com/parakeet/48/new-post.png" alt="new-post"/>Email 
     </a>
   </ul>
   <ul>
-    <a href= "https://wa.me/34628840747"><img width="25" height="25" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>Whatsapp
+    <a  target = "_blank" href= "https://wa.me/34628840747"><img width="25" height="25" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>Whatsapp
     </a>
   </ul>
 </p>
