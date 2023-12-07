@@ -37,10 +37,9 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kK5-uGuaQhRqRbMHWOmYRTPp8uNh2w6qIg&usqp=CAU" alt="insomnia" style="margin: 5px" width="60" heigth="60"/>
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualCode" style="margin: 5px" height="50" />
-</p>
-### Testing:
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nJDoLxJC1LEyNhBpff_EJDyNxeLnJGH5nQ&usqp=CAU" alt="phpunit" style="margin: 5px" width="70" heigth="70"/>
 <img src="https://github.com/EqualWaveStudio/soundwave/assets/131855670/465e872f-6242-48b4-964c-7f5c3e749685" alt="jest"style="margin: 5px" width="50" height="50"/> </p>
+</p>
 
 ### GitHub Trends:
 <p>
