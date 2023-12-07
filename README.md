@@ -6,7 +6,7 @@
 ### About Me:
 
 <p> I recently completed a full stack developer bootcamp in October. At the age of 42, my journey has been anything but conventional. 
-Born in Venezuela 🇻🇪 and currently living in Barcelona, my professional background includes a lawyers degree, a PhD. in politics 🤓 and extensive customer service roles. 
+Born in Venezuela 🇻🇪 and currently living in Barcelona, my professional background includes a law degree ⚖️, a PhD. in politics 📚 and extensive experience on customer care roles. 
 However, fueled by a passion for technology, I decided to reinvent myself and pivot towards a career in development. The decision to delve into coding was driven by a desire for growth and a love for problem-solving. Now, armed with a newfound skill set, I'm ready to contribute my unique perspective to the ever-evolving world of technology. 
   Exciting times lie ahead, and I can't wait to see where this coding adventure takes me! 🚀🌍 </p>
 
