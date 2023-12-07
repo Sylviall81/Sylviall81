@@ -41,20 +41,24 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
 </p>
 
 ### Testing:
-<p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nJDoLxJC1LEyNhBpff_EJDyNxeLnJGH5nQ&usqp=CAU" alt="phpunit" style="margin: 5px" width="70" heigth="70"/>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nJDoLxJC1LEyNhBpff_EJDyNxeLnJGH5nQ&usqp=CAU" alt="phpunit" style="margin: 5px" width="70" heigth="70"/>
 <img src="https://github.com/EqualWaveStudio/soundwave/assets/131855670/465e872f-6242-48b4-964c-7f5c3e749685" alt="jest"style="margin: 5px" width="50" height="50"/> </p>
+
+### GitHub Trends:
+
+<p>
+<img src= "https://api.githubtrends.io/user/svg/Sylviall81/langs?time_range=one_year&theme=bright_lights" />
+<img src= "https://api.githubtrends.io/user/svg/Sylviall81/repos?time_range=one_year&theme=bright_lights" />
+</p>
 
 ## 📫 How to reach me:
 
-<li>  
+<p>
 <!-- <ul></ul>portfolio url -->
-  
   <ul> 
     <a href= "https://www.linkedin.com/in/sylviall81/"><img width="25" height="25" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> LinkedIn 
     </a>
   </ul>
- 
   <ul>
     <a href= "mailto:sylviall81@gmail.com"> <img width="25" height="25" src="https://img.icons8.com/parakeet/48/new-post.png" alt="new-post"/>Email 
     </a>
@@ -63,10 +67,8 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
     <a href= "https://wa.me/34628840747"><img width="25" height="25" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>Whatsapp
     </a>
   </ul>
-</li>
+</p>
   
-![github-wrapped](https://github.com/Sylvia/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Sylviall81/langs)](https://githubtrends.io)
 
 
 <!--
