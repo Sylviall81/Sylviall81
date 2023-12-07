@@ -7,7 +7,8 @@
 
 <p> I recently completed a full stack developer bootcamp in October. At the age of 42, my journey has been anything but conventional. 
 Born in Venezuela 🇻🇪 and currently living in Barcelona, my professional background includes a law degree ⚖️, a PhD. in politics 📚 and extensive experience on customer care roles. 
-However, fueled by a passion for technology, I decided to reinvent myself and pivot towards a career in development. The decision to delve into coding was driven by a desire for growth and a love for problem-solving. Now, armed with a newfound skill set, I'm ready to contribute my unique perspective to the ever-evolving world of technology. 
+However, fueled by a passion for technology, I decided to pursue a new and exciting career path in development 🧑🏻‍💻. 
+  The decision to delve into coding was driven by a desire for growth and a love for problem-solving. Now, armed with a newfound skill set, I'm ready to contribute my unique perspective to the ever-evolving world of technology. 
   Exciting times lie ahead, and I can't wait to see where this coding adventure takes me! 🚀🌍 </p>
 
 ### Languages  
@@ -41,7 +42,7 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
 <img src="https://github.com/EqualWaveStudio/soundwave/assets/131855670/465e872f-6242-48b4-964c-7f5c3e749685" alt="jest"style="margin: 5px" width="50" height="50"/> </p>
 </p>
 
-### GitHub Trends:
+### GitHub Trends 📈:
 <p>
 <img src= "https://api.githubtrends.io/user/svg/Sylviall81/langs?time_range=one_year&theme=bright_lights" />
 <img src= "https://api.githubtrends.io/user/svg/Sylviall81/repos?time_range=one_year&theme=bright_lights" />
