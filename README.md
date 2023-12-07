@@ -11,7 +11,6 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
   Exciting times lie ahead, and I can't wait to see where this coding adventure takes me! 🚀🌍 </p>
 
 ### Languages  
-
 <p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -39,20 +38,17 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualCode" style="margin: 5px" height="50" />
 </p>
-
 ### Testing:
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nJDoLxJC1LEyNhBpff_EJDyNxeLnJGH5nQ&usqp=CAU" alt="phpunit" style="margin: 5px" width="70" heigth="70"/>
 <img src="https://github.com/EqualWaveStudio/soundwave/assets/131855670/465e872f-6242-48b4-964c-7f5c3e749685" alt="jest"style="margin: 5px" width="50" height="50"/> </p>
 
 ### GitHub Trends:
-
 <p>
 <img src= "https://api.githubtrends.io/user/svg/Sylviall81/langs?time_range=one_year&theme=bright_lights" />
 <img src= "https://api.githubtrends.io/user/svg/Sylviall81/repos?time_range=one_year&theme=bright_lights" />
 </p>
 
 ## 📫 How to reach me:
-
 <p>
 <!-- <ul></ul>portfolio url -->
   <ul> 
@@ -75,18 +71,11 @@ However, fueled by a passion for technology, I decided to reinvent myself and pi
 **Sylviall81/Sylviall81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-<!-- Web personal [alextomas.com](https://alextomas.com) 
-- [Medium](https://alextomash.medium.com/)
-- [Dev.to](https://dev.to/alextomas80/)
-- [Instagram](https://www.instagram.com/alextomas/)-->
-
-- ⚡ Fun fact: ...
--->
+  -->
 
