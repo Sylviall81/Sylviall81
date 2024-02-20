@@ -24,6 +24,7 @@ However, fueled by a passion for technology, I decided to pursue a new and excit
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />   
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPUKg7cIxkmpBwDOTkXbaUXOgVTPM0LRN1Q&usqp=CAU" alt="laravel" style="margin: 5px" width="60" heigth="60"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvL4b47c9FUZlg4KNHfVe85Gy4iQ8Ubsi2A&usqp=CAU" alt="bootstrap" style="margin: 5px"width="60" heigth="60"/> 
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" style="margin: 5px"width="60" heigth="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png" alt="tailwind" style="margin: 5px"width="60" heigth="60"/> 
   <!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3riH1jgH8Pi1LdvCam3PnpFu4ANeFexthg&usqp=CAU" alt="nodejs" style="margin: 5px" width="60" heigth="60"/>-->
 </p>
