@@ -1,15 +1,20 @@
 # Hi there 👋  Im Sylvia Llorente 
-## Full-Stack Jr. Developer
+## QA tester & Full-Stack Developer Jr.
 
 ### 😄 Pronouns: She/Her
 
 ### About Me:
 
-<p> I recently completed a full stack developer bootcamp in October. At the age of 42, my journey has been anything but conventional. 
-Born in Venezuela 🇻🇪 and currently living in Barcelona, my professional background includes a law degree ⚖️, a PhD. in politics 📚 and extensive experience on customer care roles. 
+Born in Venezuela 🇻🇪 and living in Barcelona since 2014,my journey has been anything but conventional:
+<br>
+My professional background includes a law degree ⚖️, a PhD. in politics 📚 and extensive experience on customer care roles. <br>
 However, fueled by a passion for technology, I decided to pursue a new and exciting career path in development 🧑🏻‍💻. 
-  The decision to delve into coding was driven by a desire for growth and a love for problem-solving. Now, armed with a newfound skill set, I'm ready to contribute my unique perspective to the ever-evolving world of technology. 
-  Exciting times lie ahead, and I can't wait to see where this coding adventure takes me! 🚀🌍 </p>
+<br>
+Since January 2023 i have completed, among others: <ul>
+<li><a href= "https://femqa.basetis.com/es" target="_blank" > Functional QA Bootcamp </a> (June 2024),</li> 
+<li><a href="https://cursosnascor.com/curso/desarrollo-de-aplicaciones-con-tecnologias-web-certificado-de-profesionalidad-en-barcelona" target= "_blank">Professional Certificate on Web App Development </a> (May 2024) </li> 
+<li> <a href= "https://femcoders.factoriaf5.org/"target="_blank" > Full stack developer bootcamp at Femcoders - Factoría F5</a> (Oct, 2023).</li> </ul>
+The decision to delve into coding was driven by a desire for growth and a love for problem-solving. Now, armed with a newfound skill set, I'm ready to contribute my unique perspective to the ever-evolving world of technology. Exciting times lie ahead, and I can't wait to see where this coding adventure takes me! 🚀🌍 </p>
 
 ### Languages  
 <p>
@@ -39,8 +44,11 @@ However, fueled by a passion for technology, I decided to pursue a new and excit
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kK5-uGuaQhRqRbMHWOmYRTPp8uNh2w6qIg&usqp=CAU" alt="insomnia" style="margin: 5px" width="60" heigth="60"/>
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VisualCode" style="margin: 5px" height="50" />
-<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nJDoLxJC1LEyNhBpff_EJDyNxeLnJGH5nQ&usqp=CAU" alt="phpunit" style="margin: 5px" width="70" heigth="70"/>
-<img src="https://github.com/EqualWaveStudio/soundwave/assets/131855670/465e872f-6242-48b4-964c-7f5c3e749685" alt="jest"style="margin: 5px" width="50" height="50"/> </p>
+<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8nJDoLxJC1LEyNhBpff_EJDyNxeLnJGH5nQ&usqp=CAU" alt="phpunit" style="margin: 8px" width="110" heigth="80"/>
+<img src="https://github.com/EqualWaveStudio/soundwave/assets/131855670/465e872f-6242-48b4-964c-7f5c3e749685" alt="jest"style="margin: 8px" width="50" height="50"/> 
+<img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/246897/TestRail_Logo_Main_02_2x.png" alt="TestRail" style="margin: 8px" width="100" height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" alt="Playwright" style="margin: 8px" width="100" height="25"/>
+
 </p>
 
 ### GitHub Trends 📈:
