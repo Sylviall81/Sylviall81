@@ -11,6 +11,8 @@ My professional background includes a law degree ⚖️, a PhD. in politics 📚
 However, fueled by a passion for technology, I decided to pursue a new and exciting career path in development 🧑🏻‍💻. 
 <br>
 Since January 2023 i have completed, among others: <ul>
+<li><a href= "https://www.dropbox.com/scl/fi/sna2xyikwvnywk35mw91l/Diplomas_PHP01-Sylvia-Llorente.pdf?rlkey=t4qbde5eskv5z6z5nuyu7af6w&st=21ihs5r3&dl=0)" target="_blank" > PHP & MySQL Technical Trainning </a> (Jan-Feb, 2025),</li> 
+<li><a href= "https://ingenium.marketing/" target="_blank" > Web Development Internship at Ingenium Marketing Digital Agency </a> (Nov-Dic, 2024)</li> 
 <li><a href= "https://femqa.basetis.com/es" target="_blank" > Functional QA Bootcamp </a> (June 2024),</li> 
 <li><a href="https://cursosnascor.com/curso/desarrollo-de-aplicaciones-con-tecnologias-web-certificado-de-profesionalidad-en-barcelona" target= "_blank">Professional Certificate on Web App Development </a> (May 2024) </li> 
 <li> <a href= "https://femcoders.factoriaf5.org/"target="_blank" > Full stack developer bootcamp at Femcoders - Factoría F5</a> (Oct, 2023).</li> </ul>
